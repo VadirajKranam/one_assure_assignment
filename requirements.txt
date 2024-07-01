@@ -1,0 +1,7 @@
+Flask==2.0.3
+Flask-MongoEngine==1.0.0
+mongoengine==0.24.1
+APScheduler==3.7.0
+requests==2.27.1
+werkzeug==2.0.3
+pytz==2022.1
